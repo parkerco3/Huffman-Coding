@@ -1,0 +1,17 @@
+/BitInputStream.class
+/BitOutputStream.class
+/CharCounter.class
+/CharCounterTest.class
+/Huff.class
+/HuffInternalNode.class
+/HuffLeafNode.class
+/HuffTest.class
+/HuffTree.class
+/ICharCounter.class
+/IHuffBaseNode.class
+/IHuffConstants.class
+/IHuffEncoder.class
+/IHuffHeader.class
+/IHuffModel.class
+/ITreeMaker.class
+/MinHeap.class
